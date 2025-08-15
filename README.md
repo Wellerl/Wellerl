@@ -23,3 +23,12 @@ Estou sempre em busca de novos desafios e oportunidades para evoluir como desenv
   <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
   <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
 </p>
+
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wellerl&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wellerl&layout=compact"/>
+</div>
+
+
+email: wellerdesousa@gmail.com
