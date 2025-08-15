@@ -24,11 +24,13 @@ Estou sempre em busca de novos desafios e oportunidades para evoluir como desenv
   <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
 </p>
 
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wellerl&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wellerl&layout=compact"/>
 </div>
 
+### Entre em contato comigo 
 
-email: wellerdesousa@gmail.com
+📧 email: wellerdesousa@gmail.com
